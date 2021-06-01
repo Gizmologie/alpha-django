@@ -26,7 +26,8 @@ SECRET_KEY = 'sp3p!90ke(sc$ka*cce*^(el6uhr#+igg^o0d(loy$svpg2s@m'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "51.158.113.184"
+    "51.158.113.184",
+    "django-cours-m1.herokuapp.com"
 ]
 
 
